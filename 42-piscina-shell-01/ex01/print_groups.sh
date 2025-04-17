@@ -1,1 +1,1 @@
-id -Gn | sed 's/ /,/g'
+id -Gn master  | sed 's/ /,/g'
