@@ -1,0 +1,18 @@
+tar -xvf exo2.tar <- extrair tar
+
+
+diff a b > sw2.diff
+diff -s sw.diff sw2.diff
+
+
+touch teste~ #teste#
+bash ex08/clean 
+
+file -m ft_magic
+
+touch 42_file  
+truncate -s 42 42_file
+vim 42_file
+file -m ft_magic.mgc 42_file
+file --mime-type -m ft_magic.mgc 42_file
+
