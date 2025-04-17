@@ -6,9 +6,22 @@
 /*   By: riasanto <riasanto@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/16 18:47:43 by riasanto          #+#    #+#             */
-/*   Updated: 2025/04/16 19:16:34 by riasanto         ###   ########.fr       */
+/*   Updated: 2025/04/16 23:10:36 by riasanto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+void	ft_print_comb2(void)
+{
+	char	col1;
+	char	col2;
+	char	col3;
+	char	col4;
 
-void 
+	col1 = '0';
+	col2 = '0';
+	col3 = '0';
+	col4 = '0';
+
+
+	
+}
